@@ -1,2 +1,11 @@
 # py2048
-2048 game in python backend with tkinter GUI. 
+py2048 is a simple 2048 game with tkinter GUI and python3 backend. 
+
+## Requirements
+numpy
+
+## Usage
+```bash
+python3 gui.py
+```
+
